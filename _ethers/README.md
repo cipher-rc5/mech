@@ -6,7 +6,7 @@ A three dimensional iteration of Ethereum cryptocurrency icon. Made using Autode
 
 Rendered views are available in the `/images` directory
 
-![Ethers 3D-Concept Rendering](https://github.com/cipher0x0000/mech/blob/main/images/ethers_rendered.png?w=500)
+![Ethers 3D-Concept Rendering](https://github.com/cipher0x0000/mech/blob/main/_ethers/images/ethers_rendered.png?w=500)
 
 ## Code
 
